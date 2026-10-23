@@ -7,3 +7,4 @@ tong = a + b
 
 print("Tong cua", a, "va", b, "la:", tong)
 print("Toi da cap nhat chuong trinh qua Git!")
+print("Day la thay doi truc tiep tren GitHub.")
